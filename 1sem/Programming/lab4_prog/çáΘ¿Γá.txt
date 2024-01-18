@@ -1,0 +1,10 @@
+Вообще, насколько я знаю, перехватывать Unchecked Exceptions является плохим тоном, так как 
+Unchecked Exception - это Error или RuntimeExceptopns, которые говорят о том, что проблема 
+в самом коде и нужно исправлять код.
+
+Создал Inner Class: 
+Eye у UncleUlius 
+
+Создал Local Class:
+Forehead in Mother
+Fold in Mother
